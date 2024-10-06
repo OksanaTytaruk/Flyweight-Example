@@ -1,0 +1,2 @@
+# Flyweight-Example
+Легковаговик
